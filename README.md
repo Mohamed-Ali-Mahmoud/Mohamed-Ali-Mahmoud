@@ -1,6 +1,4 @@
-- 👋 Hi, I’m a Mohamed Ali and have been a Graphic Designer and Front-End for more than +5 Years 
--     of experience in the field of Brand & identity Design, Print Design, 
--     UX/UI, Web Design I came here to show you my experiences
+I am a JavaScript developer specializing in React and Next.js, and a graphic designer with a passion for creating seamless and visually appealing user experiences. Studying branding at e-Youth has given me a strong foundation in crafting impactful brand identities. My skills in both development and design allow me to bring innovative ideas to life with technical expertise and creativity.
 
 
 <!---
